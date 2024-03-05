@@ -8,8 +8,8 @@ namespace ProgrammingIICraftDemoPages
 {
     public class Recipe
     {
-        public string RecipeName;
-        public string RecipeDescription;
+        public string RecipeName = "";
+        public string RecipeDescription = "";
         public double RecipeValue = 0;
         public double RecipeAmount = 1;
         public string RecipeAmountType = "cup(s)";
