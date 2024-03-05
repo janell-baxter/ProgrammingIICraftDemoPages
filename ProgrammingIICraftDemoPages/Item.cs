@@ -8,8 +8,8 @@ namespace ProgrammingIICraftDemoPages
 {
     public class Item
     {
-        public string ItemName;
-        public string ItemDescription;
+        public string ItemName = "";
+        public string ItemDescription = "";
         public double ItemValue = 0;
         public double ItemAmount = 1;
         public string ItemAmountType = "cup(s)";
