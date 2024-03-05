@@ -20,7 +20,7 @@ namespace ProgrammingIICraftDemoPages
  * Your Name
  * Date
  * Uses demo code from PROG 201 Programming II course
- * 
+ * https://github.com/janell-baxter/ProgrammingIICraftDemoPages
  */
     /// <summary>
     /// Interaction logic for MainWindow.xaml
