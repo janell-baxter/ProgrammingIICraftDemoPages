@@ -10,7 +10,7 @@
 
     <Grid Loaded="Grid_Loaded">
         <ScrollViewer Width="536" Height="376" VerticalScrollBarVisibility="Auto">
-            <TextBlock x:Name="Output"  TextWrapping="Wrap" Text="Craft" Height="356"/>
+            <TextBlock x:Name="Output"  TextWrapping="Wrap" Text="Craft" />
         </ScrollViewer>
 
     </Grid>
